@@ -6,7 +6,7 @@
 * @since   2021-11-18
 */
 
-// Swift "Hello, World!" Program
+// Swift "Logs" program
 
 let LOGDENSITY: Float = 20
 let TRUCKCAPACITY: Float = 1100
@@ -23,4 +23,3 @@ let numberOfLogs = (TRUCKCAPACITY / logLengthFloat!) / LOGDENSITY
 
 print("\nThe truck can carry \(numberOfLogs) logs.")
 print("\nDone.\n")
-
